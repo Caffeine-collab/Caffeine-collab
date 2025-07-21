@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caffeine-collab
+- 👋 Hi, I’m Maria
 - 👀 I’m interested in embedded systems and artificial intelligence
 
 
